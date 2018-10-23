@@ -701,3 +701,23 @@ or if you don't have normalized classes for whatever reason
     border-color: rgb(0, 0, 0) !important;
 
 }
+
+/* view user details */
+
+.header-QKLPzZ {
+    padding: 20px;
+    background-color: #0a0a0a !important;
+}
+
+.tabBarContainer-1s1u-z {
+    border-top: 1px solid hsl(0, 0%, 0%);
+    padding-left: 20px;
+}
+
+.theme-dark .connectedAccount-36nQx7, .theme-dark .userInfoSection-2acyCx+.userInfoSection-2acyCx {
+    border-color: #000;
+}
+
+.scroller-2FKFPG {
+    background-color: #000;
+}
