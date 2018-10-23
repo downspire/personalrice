@@ -346,3 +346,12 @@
 .Nav__dropdown {
     border: 1px solid #000 !important;
 }
+
+.NightModeSwitch {
+    border-top: 1px solid #0a0a0a !important;
+}
+
+.TrackedToggleSwitch__checkbox:checked + .TrackedToggleSwitch__slider {
+    background-color: #1b1b1b;
+    color: #fff;
+}
