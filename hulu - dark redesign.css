@@ -1,9 +1,12 @@
 /* Hulu Dark 2018 Redesign */
 
+/* main back ground */
 
 #content {
-    background-color: #060606 !important;
+    background-color: #0a0a0a !important;
 }
+
+ /* top header */
 
 .GlobalNav,
 .BrowseMenu__menu,
