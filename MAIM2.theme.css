@@ -683,3 +683,21 @@ or if you don't have normalized classes for whatever reason
     border-left: 4px solid #000000 !important;
     background: rgb(234, 5, 132) !important;
 }
+
+/* user details */
+
+.userPopout-3XzG_A {
+    border-radius: 5px;
+    box-shadow: 0 2px 10px 0 rgb(0, 0, 0), 0 0 0 1px rgb(0, 0, 0);
+    overflow: hidden;
+    width: 250px;
+}
+
+.theme-dark .quickMessage-1yeL4E {
+    border-color: #000000;
+}
+
+.theme-dark .footer-1fjuF6 {
+    border-color: rgb(0, 0, 0) !important;
+
+}
