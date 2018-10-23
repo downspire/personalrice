@@ -366,3 +366,14 @@
     background-color: #1b1b1b;
     color: #fff;
 }
+
+/* suggestion box */
+
+.ConfirmModal__bottom {
+    background-color: #000;
+}
+
+.ModalHeader__header {
+    background-color: #0a0a0a
+
+}
