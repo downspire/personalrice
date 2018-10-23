@@ -256,3 +256,18 @@ html.SHINE.res-nightmode textarea {
     border-color: #000;
     background-color: #0F0F0F;
 }
+
+/* subreddit font settings */
+
+#RESShortcuts {
+    font-weight: bold;
+    text-transform: lowercase;
+    color: #c9c9c9;
+}
+
+#srLeftContainer, #RESShortcutsViewport, #RESShortcutsEditContainer {
+    text-transform: lowercase;
+    font-weight: bold !important;
+    color: #c9c9c9 !important;
+
+}
