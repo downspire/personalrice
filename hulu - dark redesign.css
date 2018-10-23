@@ -343,13 +343,21 @@
     background-color: #060606;
 }
 
+/* Nav border */
+
 .Nav__dropdown {
     border: 1px solid #000 !important;
+}
+
+.ProfileDropdown__links {
+    border-top: 1px solid #0a0a0a !important;
 }
 
 .NightModeSwitch {
     border-top: 1px solid #0a0a0a !important;
 }
+
+/* nav toggle switch */
 
 .TrackedToggleSwitch__checkbox:checked + .TrackedToggleSwitch__slider {
     background-color: #1b1b1b;
